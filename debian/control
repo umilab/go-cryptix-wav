@@ -13,8 +13,7 @@ XS-Go-Import-Path: github.com/cryptix/wav
 
 Package: golang-github-cryptix-wav-dev
 Architecture: all
-Depends: ${shlibs:Depends},
-         ${misc:Depends},
+Depends: ${misc:Depends},
 Description: golang .wav reader and writer
  wav GoDoc (https://godoc.org/github.com/cryptix/wav) Build Status
  (https://travis-ci.org/cryptix/wav)
