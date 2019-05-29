@@ -1,0 +1,6 @@
+golang-github-cryptix-wav (0.0~git20180415.0.8bdace6-1umi) artful; urgency=medium
+
+  [ root ]
+  * Initial release (Closes: TODO)
+
+ -- UMI Packages Builder <packages@umilab.org>  Tue, 28 May 2019 23:00:00 +0100
